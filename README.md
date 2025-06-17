@@ -23,7 +23,7 @@ I am particularly passionate about exploring the intersection of full-stack deve
 ## Technical Skills
 
 ### Programming Languages
-- Python, Java, C, C++, JavaScript (ES6+), Bash
+- Python, Java, C, C++, JavaScript, Bash
 
 ### MERN Stack Development
 - **MongoDB**: Schema design, indexing, aggregation pipelines, Mongoose ODM  
@@ -32,7 +32,7 @@ I am particularly passionate about exploring the intersection of full-stack deve
 - **Node.js**: Server-side logic, asynchronous programming with Promises and async/await, file and process handling
 
 ### Frontend Development
-- HTML5, CSS3, Responsive Design, React Router, Axios, WebSockets
+- HTML, CSS, Responsive Design, React Router, Axios, WebSockets
 - Real-time interactions using Socket.IO
 - Modular UI patterns and form validation best practices
 
@@ -64,11 +64,11 @@ I am particularly passionate about exploring the intersection of full-stack deve
 
 ## Interests
 
-- Full-Stack Application Development (MERN Stack)  
+- Full-Stack Application Development (MERN Stack)
+- Scalable REST API Design    
 - Real-Time Systems and Live Data Visualization  
 - AI-Powered Security Solutions  
-- End-to-End Encrypted Communication Tools  
-- Scalable REST API Design  
+- End-to-End Encrypted Communication Tools 
 - Open Source Collaboration
 
 ---
