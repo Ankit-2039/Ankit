@@ -1,6 +1,10 @@
-# Ankit Kumar
+# Hi, I'm Ankit
 
-I am a dedicated and solution-oriented computer applications graduate with a strong passion for technology, full-stack web development, and intelligent systems. I specialize in building scalable, real-time applications using the MERN stack and integrating AI/ML capabilities where applicable. My work reflects a strong balance between clean code, performance optimization, and user-centric design.
+I am a technology enthusiast with a solid foundation in computer science and practical experience in software engineering, web development, and system architecture. Over the course of my academic and project-based work, I’ve developed and deployed real-world applications using modern technologies and frameworks, focusing on both frontend and backend development.
+
+My strengths lie in writing clean, maintainable code, understanding system-level interactions, and building scalable solutions tailored to user needs. I bring a collaborative mindset, strong attention to detail, and a problem-solving approach to every technical challenge I face.
+
+I am particularly passionate about exploring the intersection of full-stack development and intelligent systems, and continuously expanding my knowledge in areas such as AI, cybersecurity, and cloud-native applications. Currently, I am seeking project-based roles or internships where I can contribute meaningfully, work with modern tools and teams, and continue to grow as a developer.
 
 ---
 
