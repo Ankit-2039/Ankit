@@ -1,6 +1,6 @@
 # Hi, I'm Ankit
 
-I am a technology enthusiast with a solid foundation in computer science and practical experience in software engineering, web development, and system architecture. Over the course of my academic and project-based work, I’ve developed and deployed real-world applications using modern technologies and frameworks, focusing on both frontend and backend development.
+I am a technology enthusiast with a solid foundation in computer science and practical experience in software engineering, and web development. Over the course of my academic and project-based work, I’ve developed and deployed real-world applications using modern technologies and frameworks, focusing on both frontend and backend development.
 
 My strengths lie in writing clean, maintainable code, understanding system-level interactions, and building scalable solutions tailored to user needs. I bring a collaborative mindset, strong attention to detail, and a problem-solving approach to every technical challenge I face.
 
